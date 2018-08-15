@@ -1,4 +1,4 @@
-# Connection-Dectotor-Class
+# Connection-Detector-Class
 Check If Internet Connection is available or not 
 
 public class ConnectionDetector {
